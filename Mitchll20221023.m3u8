@@ -1,84 +1,22 @@
 #EXTM3U
-#EXTINF:-1 ,#
-http://epg.112114.xyz/douyu/9429545
-#EXTINF:-1 ,《爱你到最后一刻》
+#EXTINF:-1 group-title="音悦台",《爱你到最后一刻》
 https://vd3.bdstatic.com/mda-mhr9c7q9xzgy1812/1080p/cae_h264/1630062648077583523/mda-mhr9c7q9xzgy1812.mp4
-#EXTINF:-1 ,《唱着情歌流着泪》
+#EXTINF:-1 group-title="音悦台",《唱着情歌流着泪》
 https://vd3.bdstatic.com/mda-mhwaejanf0ie6b8j/1080p/cae_h264/1630409563129833732/mda-mhwaejanf0ie6b8j.mp4
 #EXTINF:-1 group-title="歪歪",《地下交通站》
 http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=29907996
-#EXTINF:-1 ,《人间惊鸿客》
+#EXTINF:-1 group-title="音悦台",《人间惊鸿客》
 https://vd3.bdstatic.com/mda-mh2bbyjcqjxjhzkd/1080p/cae_h264/1627978577559447916/mda-mh2bbyjcqjxjhzkd.mp4
-#EXTINF:-1 ,《忘川彼岸DJ》
+#EXTINF:-1 group-title="音悦台",《忘川彼岸DJ》
 https://vd2.bdstatic.com/mda-md2eyfntemujuft5/1080p/cae_h264/1617446472/mda-md2eyfntemujuft5.mp4
-#EXTINF:-1 ,《无味》 DJ版
+#EXTINF:-1 group-title="音悦台",《无味》 DJ版
 https://vd3.bdstatic.com/mda-mgqiagirsmmpuarm/1080p/cae_h264/1627218846577884242/mda-mgqiagirsmmpuarm.mp4
-#EXTINF:-1 group-title="虎牙",【Blue胖】你看得到我的腿吗
-https://epg.112114.xyz/huya/11601963
-#EXTINF:-1 group-title="斗鱼",【RM-点播】点播！模式-24H欢乐不断
-http://epg.112114.xyz/douyu/131977
-#EXTINF:-1 group-title="斗鱼",【RM-轮播】轮播！模式-24H欢乐不断
-http://epg.112114.xyz/douyu/7298973
-#EXTINF:-1 group-title="斗鱼",【贝爷MAX厅】科幻动作经典喜剧
-http://epg.112114.xyz/douyu/4332
-#EXTINF:-1 group-title="斗鱼",【贝爷影厅】经典科幻动作灾难巨兽
-http://epg.112114.xyz/douyu/252802
-#EXTINF:-1 group-title="斗鱼",【超级赛亚人】悟吉塔
-http://epg.112114.xyz/douyu/7190773
-#EXTINF:-1 group-title="歪歪",【电视剧
+#EXTINF:-1 group-title="歪歪",【电视剧】正阳门下
 http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1453059740
-#EXTINF:-1 group-title="歪歪",【电影】超然巨作
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=26623173
-#EXTINF:-1 group-title="斗鱼",【动画电影】童年回忆
-http://epg.112114.xyz/douyu/10395973
-#EXTINF:-1 group-title="斗鱼",【动漫】24小时不间断动漫专场
-http://epg.112114.xyz/douyu/7493575
-#EXTINF:-1 group-title="斗鱼",【动漫】超燃怀旧经典
-http://epg.112114.xyz/douyu/1174353
-#EXTINF:-1 group-title="斗鱼",【动漫】记录你的王者峡谷生活~
-http://epg.112114.xyz/douyu/9360149
 #EXTINF:-1 group-title="埋堆堆",【斗气一族】青涩周星星『埋堆』
 http://txtest-xp2p.p2p.huya.com/src/1199564062365-1199564062365-5446820749614514176-2399128248186-10057-A-0-1.xs
-#EXTINF:-1 group-title="虎牙",【海绵宝宝】黄方块的爆笑生活~
-https://epg.112114.xyz/huya/11352919
-#EXTINF:-1 group-title="斗鱼",【回首往事】仨房间画面同步显示
-http://epg.112114.xyz/douyu/1569773
-#EXTINF:-1 group-title="斗鱼",【经典动漫】9455567
-http://epg.112114.xyz/douyu/9455567
-#EXTINF:-1 group-title="斗鱼",【柯南】外表看似小孩，智慧却过于常人
-http://epg.112114.xyz/douyu/6484910
-#EXTINF:-1 group-title="斗鱼",【科幻Fans】精彩科幻影视，解说连连看
-http://epg.112114.xyz/douyu/3508304
-#EXTINF:-1 group-title="B站",【蜡笔小新】国语高清，24小时直播哦！
-http://zzy789.xyz/bili.php?id=10375360
-#EXTINF:-1 group-title="B站",【蜡笔小新】绝版画质
-http://zzy789.xyz/bili.php?id=21570935
 #EXTINF:-1 group-title="歪歪",【林正英】鬼片
 http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=34229877
-#EXTINF:-1 group-title="虎牙",【猫和老鼠】汤姆和杰瑞的故事
-https://epg.112114.xyz/huya/11352879
-#EXTINF:-1 group-title="斗鱼",【猫和老鼠】汤姆和杰瑞童年回忆
-http://epg.112114.xyz/douyu/7888428
-#EXTINF:-1 group-title="斗鱼",【牛叔】N分钟带你看完大片
-http://epg.112114.xyz/douyu/2758565
-#EXTINF:-1 group-title="斗鱼",【女神金】60帧极致蓝光刀刀陪看
-http://epg.112114.xyz/douyu/747764
-#EXTINF:-1 group-title="斗鱼",【三笠】根本不存在解不开的迷！
-http://epg.112114.xyz/douyu/7050342
-#EXTINF:-1 group-title="斗鱼",【神剧】经典神剧
-http://epg.112114.xyz/douyu/3700024
-#EXTINF:-1 group-title="斗鱼",【天使点播】动漫直播间
-http://epg.112114.xyz/douyu/1487654
-#EXTINF:-1 group-title="斗鱼",【童年往事】仨房间画面同步显示点播
-http://epg.112114.xyz/douyu/7256376
-#EXTINF:-1 group-title="斗鱼",【西游】由爱故生怨，怨恨交缠，那又何苦
-http://epg.112114.xyz/douyu/9518204
-#EXTINF:-1 group-title="斗鱼",【小叮当】童年经典动画片
-http://epg.112114.xyz/douyu/9445279
-#EXTINF:-1 group-title="斗鱼",【星星动画】童年热血搞笑爱情
-http://epg.112114.xyz/douyu/4369939
-#EXTINF:-1 group-title="虎牙",【中华小当家】看的我口水直流～
-https://epg.112114.xyz/huya/11342413
 #EXTINF:-1 group-title="歪歪",【周星驰】经典搞笑堵片
 http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353881242
 #EXTINF:-1 group-title="斗鱼",【追忆】国语超清动画电影
