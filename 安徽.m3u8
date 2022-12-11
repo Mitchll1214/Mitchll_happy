@@ -1,0 +1,287 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="安徽",安徽卫视 
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225691/index.m3u8
+#EXTINF:-1 group-title="安徽",安徽导视
+http://agsj.appcoo.com:8000/agsj/test/index.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",安徽导视
+http://agsj.appcoo.com:8000/agsj/test/index.m3u8
+#EXTINF:-1 group-title="安徽",安徽经济生活
+http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",安徽卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225737/index.m3u8
+#EXTINF:-1 group-title="安徽",安徽卫视
+http://111.20.33.93/TVOD/88888893/224/3221226196/index.m3u8
+#EXTINF:-1 group-title="安徽",安徽卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225691/index.m3u8
+#EXTINF:-1 group-title="安徽",安徽卫视
+http://111.20.33.70/PLTV/88888893/224/3221226203/index.m3u8
+#EXTINF:-1 group-title="安徽",安徽卫视
+http://39.135.138.59:18890/TVOD/88888910/224/3221225691/index.m3u8
+#EXTINF:-1 group-title="安徽",安徽卫视
+http://111.40.196.25/PLTV/88888888/224/3221225551/index.m3u8?zweimd
+#EXTINF:-1 group-title="安徽",安徽卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225691/index.m3u8
+#EXTINF:-1 group-title="安徽",安徽卫视
+http://111.20.33.93/TVOD/88888893/224/3221226203/index.m3u8
+#EXTINF:-1 group-title="安徽",安徽卫视
+http://111.20.33.70/PLTV/88888893/224/3221226196/index.m3u8
+#EXTINF:-1 group-title="安徽",安徽卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225737/index.m3u8
+#EXTINF:-1 group-title="安徽",安徽卫视
+http://183.207.255.197/live/program/live/ahwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="安徽",安徽卫视
+http://183.207.255.197/live/program/live/ahwshd/2300000/mnf.m3u8
+#EXTINF:-1 group-title="安徽",安徽卫视
+http://117.169.121.162:6610/PLTV/88888910/224/3221225691/index.m3u8
+#EXTINF:-1 group-title="安徽",安徽卫视
+http://117.169.121.162:6610/PLTV/88888910/224/3221225737/index.m3u8
+#EXTINF:-1 group-title="安徽",安徽卫视
+http://111.20.33.93/TVOD/88888888/224/3221225773/index.m3u8
+#EXTINF:-1 group-title="安徽",安徽卫视
+http://111.20.33.70/TVOD/88888893/224/3221226196/index.m3u8
+#EXTINF:-1 group-title="安徽",安徽卫视
+http://111.20.33.70/TVOD/88888893/224/3221226203/index.m3u8
+#EXTINF:-1 group-title="安徽",安徽卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel23/index.m3u8
+#EXTINF:-1 group-title="安徽",安徽卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel23/1300.m3u8
+#EXTINF:-1 group-title="安徽",安徽卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel23/2300.m3u8
+#EXTINF:-1 group-title="安徽",安徽卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225691/index.m3u8
+#EXTINF:-1 group-title="安徽",安徽卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225737/index.m3u8
+#EXTINF:-1 group-title="安徽",安徽卫视 (1080p)
+http://183.207.249.15/PLTV/3/224/3221225634/index.m3u8
+#EXTINF:-1 group-title="安徽",安徽卫视 (576p)
+http://183.207.249.5/PLTV/4/224/3221225800/index.m3u8
+#EXTINF:-1 group-title="安徽",安徽影院
+http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",安徽综艺体育
+http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",安徽综艺体育
+http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
+#EXTINF:-1 group-title="安徽",安庆公共
+http://120.210.216.73:8080/ysten-business/live/SD12-576P-aqggpd/1.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",安庆教育
+http://120.210.216.73:8080/ysten-business/live/SD12-576P-aqhmx-jy/1.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",安庆石化电视
+http://183.167.250.225:8081/live/0.m3u8
+#EXTINF:-1 group-title="安徽",亳州农村
+http://zbbf2.ahbztv.com/live/418.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",亳州农村频道
+http://zbbf2.ahbztv.com/live/418.m3u8
+#EXTINF:-1 group-title="安徽",亳州农村频道[640*360]
+http://220.180.110.101:8083/videos/live/39/13/o4ncrHkSp7q09/o4ncrHkSp7q09.M3U8
+#EXTINF:-1 group-title="安徽",亳州新闻
+http://zbbf2.ahbztv.com/live/416.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",亳州新闻频道
+http://zbbf2.ahbztv.com/live/416.m3u8
+#EXTINF:-1 group-title="安徽",池州公共
+http://cm.wshls.homecdn.com/live/4abdf.flv?zanhd
+#EXTINF:-1 group-title="安徽",池州新闻综合
+http://cm.wshls.homecdn.com/live/4abdd.flv?zanhd
+#EXTINF:-1 group-title="安徽",滁州公共
+http://live.cztv.cc:85/live/ggpd.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",滁州公共频道
+http://live.cztv.cc:85/live/ggpd.m3u8
+#EXTINF:-1 group-title="安徽",滁州科教
+http://live.cztv.cc:85/live/sjpd.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",滁州科教频道
+http://live.cztv.cc:85/live/sjpd.m3u8
+#EXTINF:-1 group-title="安徽",滁州新闻综合
+http://live.cztv.cc:85/live/xwpd.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",滁州新闻综合
+http://live.cztv.cc:85/live/xwpd.m3u8
+#EXTINF:-1 group-title="安徽",枞阳综合
+http://120.210.216.73:8080/ysten-business/live/SD12-576P-zystv/1.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",枞阳综合
+http://112.27.89.235:8008/out_1/index.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",枞阳综合频道
+http://112.27.89.235:8008/out_1/index.m3u8
+#EXTINF:-1 group-title="安徽",当涂新闻综合
+http://newvideo.dangtutv.cn:8278/dt1/playlist.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",定远综合
+http://120.210.216.73:8080/ysten-business/live/SD12-576P-czdy1pd/1.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",定远综合频道
+http://ssdyapp.cn/live/dyv1.m3u8
+#EXTINF:-1 group-title="安徽",东至文化资讯 (576p) [Not 24/7]
+http://223.247.33.124:1935/live/wenhua/playlist.m3u8
+#EXTINF:-1 group-title="安徽",东至新闻综合
+http://223.247.33.124:1935/live/zonghe/playlist.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",东至新闻综合
+http://120.210.216.73:8080/ysten-business/live/HD12-1080P-czdzzh/1.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",东至新闻综合 (720p) [Not 24/7]
+http://223.247.33.124:1935/live/zonghe/playlist.m3u8
+#EXTINF:-1 group-title="安徽",东至影视 (576p) [Not 24/7]
+http://223.247.33.124:1935/live/yingshi/playlist.m3u8
+#EXTINF:-1 group-title="安徽",肥东经济生活
+http://120.210.216.73:8080/ysten-business/live/SD12-576P-fdjjsh/1.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",肥西综合
+http://112.30.194.221:20080/live/7210e3a27cc64ac4a3f7aba2e2b683d5/hls.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",肥西综合
+http://120.210.216.73:8080/ysten-business/live/SD12-576P-fxxwzh/1.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",凤台文化生活
+http://60.175.115.119:1935/live/wenhua/playlist.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",凤台文化生活 (576p) [Not 24/7]
+http://60.175.115.119:1935/live/wenhua/playlist.m3u8
+#EXTINF:-1 group-title="安徽",凤台综合
+http://111.39.175.241:8088/live/fengtai1.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",凤台综合
+http://60.175.115.119:1935/live/zonghe/playlist.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",凤台综合 (576p) [Not 24/7]
+http://60.175.115.119:1935/live/zonghe/playlist.m3u8
+#EXTINF:-1 group-title="安徽",阜南新闻综合
+http://112.27.139.242:8278/fnxwzhd/playlist.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",阜南新闻综合
+http://120.210.216.73:8080/ysten-business/live/SD12-576P-fnxwzh/1.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",阜南新闻综合
+http://112.27.139.242:8278/fnxwzhd/playlist.m3u8
+#EXTINF:-1 group-title="安徽",固镇新闻
+http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",固镇新闻
+http://www.guzhenm.com:7001/hls/hd-live.m3u8
+#EXTINF:-1 group-title="安徽",固镇影视频道
+http://www.guzhenm.com:7004/hls/hd-live.m3u8
+#EXTINF:-1 group-title="安徽",合肥财经
+http://223.244.92.30:808/8Fvh9ro/1000/live.m3u8
+#EXTINF:-1 group-title="安徽",合肥公共
+http://223.244.92.30:808/NlwQhy0/1000/live.m3u8
+#EXTINF:-1 group-title="安徽",合肥新闻
+http://223.244.92.30:808/2774goN/1000/live.m3u8
+#EXTINF:-1 group-title="安徽",淮南电视台二套
+http://stream.0554news.com/hnds2/sd/live.m3u8
+#EXTINF:-1 group-title="安徽",淮南电视台一套
+http://stream.0554news.com/hnds1/sd/live.m3u8
+#EXTINF:-1 group-title="安徽",淮南公共
+http://stream.0554news.com/hnds2/sd/live.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",淮南新闻综合
+http://stream.0554news.com/hnds1/sd/live.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",黄山公共生活
+http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",黄山公共生活
+http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8
+#EXTINF:-1 group-title="安徽",黄山光明顶
+https://gccncc.v.wscdns.com/gc/hsgmd_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="安徽",黄山梦笔生花
+https://gccncc.v.wscdns.com/gc/hsmbsh_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="安徽",黄山排云亭
+https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="安徽",黄山平天矼
+https://gcalic.v.myalicdn.com/gc/hsptgz_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="安徽",黄山始信峰
+https://gctxyc.liveplay.myqcloud.com/gc/hssxf_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="安徽",黄山卧云峰
+https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="安徽",黄山西海峡谷
+https://gcalic.v.myalicdn.com/gc/hsxhdxg_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="安徽",黄山新闻综合
+http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",黄山新闻综合
+http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
+#EXTINF:-1 group-title="安徽",黄山信兴道
+https://gccncc.v.wscdns.com/gc/hsyg_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="安徽",霍邱新闻综合
+http://120.210.216.73:8080/ysten-business/live/SD12-576P-huoqiu/1.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",霍山综合
+http://ahhsdb.chinashadt.com:1936/live/stream:ahws.stream/playlist.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",金寨综合频道
+http://112.26.80.214:1935/live/xinwen/playlist.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",金寨综合频道
+http://112.26.80.214:1935/live/xinwen/playlist.m3u8
+#EXTINF:-1 group-title="安徽",利辛影
+http://linxinbf.fst1994.cn/live/yingshi.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",利辛综合
+http://linxinbf.fst1994.cn/live/xinwen.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",临泉新闻
+http://120.210.216.73:8080/ysten-business/live/SD20-576P-linquan/1.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",灵璧综合
+http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",灵璧综合频道
+http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8
+#EXTINF:-1 group-title="安徽",六安公共
+http://pili-live-rtmp.luan2.hfmt.net/luan2/ggpd.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",六安公共频道
+http://pili-live-rtmp.luan2.hfmt.net/luan2/ggpd.m3u8
+#EXTINF:-1 group-title="安徽",六安新闻综合
+http://pili-live-rtmp.luan2.hfmt.net/luan2/jjpd.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",六安新闻综合
+http://pili-live-rtmp.luan2.hfmt.net/luan2/jjpd.m3u8
+#EXTINF:-1 group-title="安徽",南陵新闻综合
+http://live2018.wuhunews.cn/video/s10010-nlnews/index.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",南陵新闻综合
+http://live2018.wuhunews.cn/video/s10010-nlnews/index.m3u8
+#EXTINF:-1 group-title="安徽",潜山新闻综合
+http://60.171.171.101:8278/rtmp_export/video22.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",潜山新闻综合
+http://60.171.171.101:8278/rtmp_export/video22.m3u8
+#EXTINF:-1 group-title="安徽",全椒综合
+http://120.210.216.73:8080/ysten-business/live/SD12-576P-qjzhpd/1.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",歙县综合
+https://stream.ahwanyun.cn/live/4b3024127d1c472986ccdcb454f81a9f/hls.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",歙县综合频道
+http://112.30.194.221:20080/live/4b3024127d1c472986ccdcb454f81a9f/hls.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",石台综合
+http://120.210.216.73:8080/ysten-business/live/SD12-576P-czst/1.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",石台综合
+http://111.38.104.24:8090/hls/main0/playlist.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",宿松新闻综合
+http://112.30.194.221:20080/live/a8fd37c471fa46e18ec17b6ce4730eb7/hls.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",宿州公共
+http://live.ahsz.tv/video/s10001-ggpd/index.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",宿州公共 (1080p) [Not 24/7]
+http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
+#EXTINF:-1 group-title="安徽",宿州科教
+http://live.ahsz.tv/video/s10001-kxjy/index.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",宿州科教 (1080p) [Not 24/7]
+http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
+#EXTINF:-1 group-title="安徽",宿州新闻综合
+http://live.ahsz.tv/video/s10001-szzh/index.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",宿州新闻综合 (1080p) [Not 24/7]
+http://live.ahsz.tv/video/s10001-szzh/index.m3u8
+#EXTINF:-1 group-title="安徽",太和新闻综合
+http://p2.weizan.cn/1110366022/132071060845712961/live.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",屯溪融媒
+http://112.30.194.221:20080/live/63cfaf06e7064943b9a1b7d76d3470dd/hls.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",湾沚区新闻综合
+http://60.169.39.215:8090/live/ch0.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",涡阳新闻综合
+http://111.39.71.77:8099/live/one/playlist.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",涡阳新闻综合 (360p)
+http://220.180.110.101:8083/videos/live/36/57/hwEHU4UVQ1Iv5/hwEHU4UVQ1Iv5.m3u8
+#EXTINF:-1 group-title="安徽",芜湖公共 (576p)
+http://live1.wuhubtv.com/channel3/sd/live.m3u8
+#EXTINF:-1 group-title="安徽",芜湖生活 (576p)
+http://live1.wuhubtv.com/channel2/sd/live.m3u8
+#EXTINF:-1 group-title="安徽",芜湖新闻综合 (576p)
+http://live1.wuhubtv.com/channel1/sd/live.m3u8
+#EXTINF:-1 group-title="安徽",休宁新闻综合
+http://120.210.216.73:8080/ysten-business/live/hsxndst/1.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",黟县·西递牌坊
+http://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
+#EXTINF:-1 group-title="安徽",黟县宏村南湖
+https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="安徽",黟县宏村月沼
+https://gctxyc.liveplay.myqcloud.com/gc/yxhcyz_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="安徽",黟县卢村远眺
+https://gccncc.v.wscdns.com/gc/yxlcyt_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="安徽",黟县西递半山亭
+https://gcalic.v.myalicdn.com/gc/yxxdbst_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="安徽",黟县西递牌坊
+https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="安徽",黟县综合频道
+http://app.yixianfabu.com:1935/live/yixian/playlist.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",黟县综合频道
+http://114.104.147.15:1935/live/yixian/playlist.m3u8?zanhd
+#EXTINF:-1 group-title="安徽",黟县综合频道
+http://app.yixianfabu.com:1935/live/yixian/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
