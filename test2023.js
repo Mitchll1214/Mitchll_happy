@@ -15,7 +15,7 @@
 
 
 const $ = new Env("海底捞小程序签到");
-const ckName = "hdl_data";
+const ckName = "hdl_data";//定义变量名称
 //-------------------- 一般不动变量区域 -------------------------------------
 const Notify = 1;		 //0为关闭通知,1为打开通知,默认为1
 let debug = 1;           //Debug调试   0关闭  1开启
